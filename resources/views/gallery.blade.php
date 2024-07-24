@@ -33,10 +33,10 @@
 
 <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
     <div class="filter-item all nyadran">
-        <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg" alt="Nyadran">
+        <img class="h-auto max-w-full rounded-lg" src="https://raw.githubusercontent.com/Dyzaaaa/website-muncang/main/nyadran3.jpeg" alt="Nyadran">
     </div>
-    <div class="filter-item all agustus">
-        <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg" alt="17 Agustus">
+    <div class="filter-item all nyadran">
+        <img class="h-auto max-w-full rounded-lg" src="https://raw.githubusercontent.com/Dyzaaaa/website-muncang/main/nyadran2.jpeg" alt="Nyadran">
     </div>
     <div class="filter-item all pengajian">
         <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-3.jpg" alt="Pengajian">
@@ -45,10 +45,13 @@
         <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-4.jpg" alt="Sedekah Bumi">
     </div>
     <div class="filter-item all nyadran">
-        <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg" alt="Nyadran">
+        <img class="h-auto max-w-full rounded-lg" src="https://raw.githubusercontent.com/Dyzaaaa/website-muncang/main/nyadran1.jpeg" alt="Nyadran">
     </div>
     <div class="filter-item all agustus">
         <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-6.jpg" alt="17 Agustus">
+    </div>
+    <div class="filter-item all nyadran">
+        <img class="h-auto max-w-full rounded-lg" src="https://raw.githubusercontent.com/Dyzaaaa/website-muncang/main/nyadran4.jpeg" alt="Nyadran">
     </div>
     <!-- Tambahkan lebih banyak elemen dengan class yang sesuai -->
 </div>
